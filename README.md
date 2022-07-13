@@ -175,7 +175,7 @@ The output go to arm
 </li>
 </ul>
 <div align="center">
-<img align="center"  width =300px  src="https://user-images.githubusercontent.com/71986226/178854823-63a01fbc-6791-4a30-b519-387d7ef923a5.png">
+<img align="center"  width =200px  src="https://user-images.githubusercontent.com/71986226/178855557-38ff4b30-2cb6-4065-b9d2-181fdb46fc6f.gif">
 </div>
 <hr style="background-color: #4b4c60"></hr>
 
