@@ -4,7 +4,7 @@
 
    <img width=600px  src="https://user-images.githubusercontent.com/71986226/178690198-9271adbf-d7d2-4728-a762-6ed72c0790f3.png" alt="logo">
 
-  ### Worse than losing is not fighting to win.🏔️
+  ### Worse than losing is not fighting to win. 🏔️
 
 </div>
 
@@ -21,6 +21,7 @@
     - <a href ="#Food"> 🍲 Food's Machine</a>
     - <a href ="#Knife"> 🔪 Knife</a>
     - <a href ="#Boiler"> ☕ Boiler</a>
+- <a href ="#Circuit">💡 Circuit</a>
 - <a href ="#Integration">🤖 Integration</a>
 - <a href ="#Contributors"> ✨ Contributors</a>
 - <a href ="#License"> 🔒 License</a> 
@@ -142,8 +143,9 @@ Arm is response for transfer food to heater and deliver for user
 Arm has hook which make him can carry colander which contain food
 </li>
 </ul>
-
-
+<div align="center">
+<img align="center"  width =200px  src="https://user-images.githubusercontent.com/71986226/178854595-fe88e1da-7fe7-4b1c-9db1-4e93e4449db1.png">
+</div>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Food"></a>
 
@@ -157,6 +159,9 @@ Food's Machine is response for push food to Arm or Knife or Cup accoding the ord
 Food's Machine has linear actuator help him to push food
 </li>
 </ul>
+<div align="center">
+<img align="center"  width =400px  src="https://user-images.githubusercontent.com/71986226/178854627-89dc4719-eec2-4e80-b96d-092718cdbea7.png">
+</div>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Knife"></a>
 
@@ -169,22 +174,31 @@ Knife is response for cutting food like Cucumber and carrots to slides
 The output go to arm
 </li>
 </ul>
-
+<div align="center">
+<img align="center"  width =300px  src="https://user-images.githubusercontent.com/71986226/178854823-63a01fbc-6791-4a30-b519-387d7ef923a5.png">
+</div>
 <hr style="background-color: #4b4c60"></hr>
 
 
 <a id = "Boiler"></a>
 
-### <img align="center"  width =50px  height =50px src="https://media1.giphy.com/media/ii2g4OpzlzWosixidO/giphy.gif?cid=ecf05e47z2s1da1eypgleqqcds0bqgyyvignyxai8mvyy8g3&rid=giphy.gif&ct=s"> Boiler
+### <img align="center"  width =60px  height =50px src="https://media1.giphy.com/media/ii2g4OpzlzWosixidO/giphy.gif?cid=ecf05e47z2s1da1eypgleqqcds0bqgyyvignyxai8mvyy8g3&rid=giphy.gif&ct=s"> Boiler
 <ul>
 <li>
 Boiler is response of put water after boiling in the cup and stirring  the drink
 </li>
 </ul>
 <div align="center">
-<img align="center"  width =300px  src="https://user-images.githubusercontent.com/71986226/178755493-91d3f8c5-a138-43af-961d-4238daf78ca1.png">
+<img align="center"  width =300px  src="https://user-images.githubusercontent.com/71986226/178854823-63a01fbc-6791-4a30-b519-387d7ef923a5.png">
 </div>
 
+
+
+<hr style="background-color: #4b4c60"></hr>
+
+<a id = "Circuit"></a>
+
+## <img align="center"  width =60px  height =60px src="https://media1.giphy.com/media/a7Ik5hjrFQuxiPKFZO/giphy.gif?cid=ecf05e473dht4cxrxnnojv4gerspm6hm3zu7i5zqdumyhoqy&rid=giphy.gif&ct=s"> Circuit 
 
 
 <hr style="background-color: #4b4c60"></hr>
@@ -281,7 +295,7 @@ Amr</b></sub></a><br />
   </table>
   <hr style="background-color: #4b4c60"></hr>
 
-  ### <img align="center" width=60px height=60px src="https://media1.giphy.com/media/a7Ik5hjrFQuxiPKFZO/giphy.gif?cid=ecf05e473dht4cxrxnnojv4gerspm6hm3zu7i5zqdumyhoqy&rid=giphy.gif&ct=s"> Responsibility of Software Integration
+  ### <img align="center" width=70px height=55px src="https://media1.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif?cid=ecf05e47chfqgmbhlc2e7adg7iw8lnhz8976lmelfw1rf4wk&rid=giphy.gif&ct=s"> Responsibility of Software Integration
   <table >
   <tr>
    <td align="center"><a href="https://github.com/KirollosSamy"><img src="https://avatars.githubusercontent.com/u/67559650?v=4" width="150px;" alt=""/><br /><sub><b>Kirollos Samy</b></sub></a><br /></td>
