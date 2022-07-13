@@ -64,6 +64,7 @@ Captain Hook is robot which makes food and drinks.
  Input for every order
 
  <br>
+ 
  <table>
  <thead>
  <th>Input</th>
