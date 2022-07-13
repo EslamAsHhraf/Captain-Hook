@@ -64,7 +64,7 @@ Captain Hook is robot which makes food and drinks.
  Input for every order
 
  <br>
- 
+
  <table>
  <thead>
  <th>Input</th>
@@ -305,4 +305,4 @@ Amr</b></sub></a><br />
 
 ## License <a id ="License"></a>
 
-> This software is licensed under MIT License, See [License](https://github.com/ZiadSheriif/Robot-Chef/blob/master/LICENSE) for more information ©EslamAsHhraf.
+> This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/Captain-Hook/blob/main/LICENSE) for more information ©EslamAsHhraf.
