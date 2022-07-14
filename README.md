@@ -150,10 +150,10 @@ Arm has hook which make him can carry colander which contain food.
 Consists of 2 Stepper motor 
 <ul>
 <li>
-Arm 
+Arm Stepper
 </li>
 <li>
-Base
+Base Stepper
 </li>
 </ul>
 </li>
@@ -182,6 +182,9 @@ Consists of
 <ul>
 <li>
 Stepper motor 
+</li>
+<li>
+DC linear actuator
 </li>
 </ul>
 </ul>
