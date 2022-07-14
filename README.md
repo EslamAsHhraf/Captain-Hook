@@ -147,7 +147,7 @@ Arm has hook which make him can carry colander which contain food
 </li>
 </ul>
 <div align="center">
-<img align="center"  width =400px  src="https://user-images.githubusercontent.com/71986226/178992877-fc8c62b3-088c-47c7-9bcd-3f74bb556dce.gif">
+<img align="center"  width =450px  src="https://user-images.githubusercontent.com/71986226/178992877-fc8c62b3-088c-47c7-9bcd-3f74bb556dce.gif">
 </div>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Food"></a>
@@ -168,7 +168,7 @@ Food's Machine has linear actuator help him to push food
 
 <br>
 <div align="center">
-<img align="center"  width =400px  src="https://user-images.githubusercontent.com/71986226/178988843-d09a00c8-603a-441a-a867-d27c83e05173.gif">
+<img align="center"  width =450px  src="https://user-images.githubusercontent.com/71986226/178988843-d09a00c8-603a-441a-a867-d27c83e05173.gif">
 </div>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Knife"></a>
