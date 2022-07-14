@@ -145,7 +145,19 @@ Arm has hook which make him can carry colander which contain food
 <li>
 <a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Arm/Arm.ino">Arm Code</a>
 </li>
+<li>
+Consists of 2 Stepper motor 
+<ul>
+<li>
+Arm 
+</li>
+<li>
+Base
+</li>
 </ul>
+</li>
+</ul>
+<br>
 <div align="center">
 <img align="center"  width =450px  src="https://user-images.githubusercontent.com/71986226/178992877-fc8c62b3-088c-47c7-9bcd-3f74bb556dce.gif">
 </div>
@@ -164,8 +176,14 @@ Food's Machine has linear actuator help him to push food
 <li>
 <a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Food's%20Machine/PushingFood.ino">Food's Machine Code</a>
 </li>
+<li>
+Consists of
+<ul>
+<li>
+Stepper motor 
+</li>
 </ul>
-
+</ul>
 <br>
 <div align="center">
 <img align="center"  width =450px  src="https://user-images.githubusercontent.com/71986226/178988843-d09a00c8-603a-441a-a867-d27c83e05173.gif">
@@ -180,6 +198,14 @@ Knife is response for cutting food like Cucumber and carrots to slides
 </li>
 <li>
 The output go to arm
+</li>
+<li>
+Consists of
+<ul>
+<li>
+DC motor 12v (200 kg.cm)
+</li>
+</ul>
 </li>
 </ul>
 <br>
@@ -199,7 +225,21 @@ Boiler is response of put water after boiling in the cup and stirring  the drink
 <li>
 <a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Boiler/Boiler.ino">Boiler Code</a>
 </li>
+<li>
+Consists of
+<ul>
+<li>
+Water pump
+</li>
+<li>
+DC motor for controlling Katel
+</li>
+<li>
+DC motor for stirring the drink
+</li>
 </ul>
+</ul>
+<br>
 <div align="center">
 <img align="center"  width =300px  src="https://user-images.githubusercontent.com/71986226/178854823-63a01fbc-6791-4a30-b519-387d7ef923a5.png">
 </div>
