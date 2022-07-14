@@ -108,12 +108,12 @@ Captain Hook is robot which makes food and drinks.
 | --------------  | ------ | ---------------------------------------------------------------------------------------------------------------------------- |
 | Arduino Uno    | 1      | 150 EGP                                               |
 | 1298 motor driver | 4      | 60 EGP               |
-| DC Motor 20kg/cm 12v | 1      | 20 EGP
+| DC Motor 20kg/cm 12v | 1      | 200 EGP
 | Nema 23 Motor | 3 | 30 EGP
 | Adapter (12v dc,1A)  | 4 | 25 EGP
 | 12v Adapter 3A | 1  | 45 EGP
 | Katel | 1 | 35  EGP
-|Pvc (50cm) | 1 | 10 EGP
+|Green Pvc (50cm) | 1 | 10 EGP
 |Electric heater | 2 | 100 EGP
 | Bearings| 2| 20 EGP
 | Tyres rolls (50) | 1 |30 EGP
@@ -123,8 +123,9 @@ Captain Hook is robot which makes food and drinks.
 |juice filter | 2 | 20 EGP
 |Pvc's elbow | 1| 30 EGP
 | Tube (1m) | 1 | 15 EGP|
+| White Pvc (1m) | 1 | 100 EGP|
 
-### Total Budgut = 1525 L.E
+### Total Budgut = 1500 L.E
 <hr style="background-color: #4b4c60"></hr>
 
 <a id = "Machines"></a>
@@ -137,13 +138,13 @@ Captain Hook is robot which makes food and drinks.
 
 <ul>
 <li>
-Arm is response for transfer food to heater and deliver for user
+Arm is response for transfer food to heater and deliver for user.
 </li>
 <li>
-Arm has hook which make him can carry colander which contain food
+Arm has hook which make him can carry colander which contain food.
 </li>
 <li>
-<a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Arm/Arm.ino">Arm Code</a>
+<a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Arm/Arm.ino">Arm Code.</a>
 </li>
 <li>
 Consists of 2 Stepper motor 
@@ -167,14 +168,14 @@ Base
 ### <img align="center"  width =50px  height =50px src="https://media3.giphy.com/media/4CWSaafe9SOzB1cmEa/giphy.gif?cid=ecf05e47q5yhejy0ng4duja7jrzvlx1oqw5pfupiabxu1nf2&rid=giphy.gif&ct=s"> Food's Machine
 <ul>
 <li>
-Food's Machine is response for push food to Arm or Knife or Cup accoding the order
+Food's Machine is response for push food to Arm or Knife or Cup accoding the order.
 
 </li>
 <li>
-Food's Machine has linear actuator help him to push food
+Food's Machine has linear actuator help him to push food.
 </li>
 <li>
-<a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Food's%20Machine/PushingFood.ino">Food's Machine Code</a>
+<a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Food's%20Machine/PushingFood.ino">Food's Machine Code.</a>
 </li>
 <li>
 Consists of
@@ -194,10 +195,10 @@ Stepper motor
 ### <img align="center"  width =50px  height =50px src="https://media0.giphy.com/media/EppjGnpkOrY0rvjbsA/giphy.gif?cid=ecf05e4732u005bpf9xh4rni4pd64f1yfulqwepk5vbob3i7&rid=giphy.gif&ct=s"> Knife
 <ul>
 <li>
-Knife is response for cutting food like Cucumber and carrots to slides
+Knife is response for cutting food like Cucumber and carrots to slides.
 </li>
 <li>
-The output go to arm
+The output go to arm.
 </li>
 <li>
 Consists of
@@ -220,10 +221,10 @@ DC motor 12v (200 kg.cm)
 ### <img align="center"  width =60px  height =50px src="https://media1.giphy.com/media/ii2g4OpzlzWosixidO/giphy.gif?cid=ecf05e47z2s1da1eypgleqqcds0bqgyyvignyxai8mvyy8g3&rid=giphy.gif&ct=s"> Boiler
 <ul>
 <li>
-Boiler is response of put water after boiling in the cup and stirring  the drink
+Boiler is response of put water after boiling in the cup and stirring  the drink.
 </li>
 <li>
-<a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Boiler/Boiler.ino">Boiler Code</a>
+<a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Boiler/Boiler.ino">Boiler Code.</a>
 </li>
 <li>
 Consists of
@@ -259,6 +260,12 @@ DC motor for stirring the drink
 <a id = "Integration"></a>
 
 ## <img align="center"  width =80px  height =80px src="https://media1.giphy.com/media/lr7lYUc00nr3hWsoVa/giphy.gif?cid=ecf05e47f99e9tbsstbe3u9mzphxjrp27jxozshi64cok467&rid=giphy.gif&ct=s"> Integration 
+
+<ul>
+<li>We use Pvc tubes to transfer food between machines.</li>
+<li><a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Integeration/integeration.ino">Integration codes</a</li>
+</ul>
+<br>
 <div align="center">
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
