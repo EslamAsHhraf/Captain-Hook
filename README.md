@@ -260,7 +260,7 @@ DC motor for stirring the drink
 
 <ul>
 <li>We use Pvc tubes to transfer food between machines.</li>
-<li><a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Integeration/integeration.ino">Integration codes</a</li>
+<li><a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Integeration/integeration.ino">Integration code</a</li>
 </ul>
 <br>
 <div align="center">
@@ -370,6 +370,7 @@ Amr</b></sub></a><br />
     <td align="center"><a href="https://github.com/AbdelrahmanAshrafMohamedelsayed" ><img src="https://avatars.githubusercontent.com/u/97232730?v=4" width="150px;" alt=""/><br /><sub><b>Abdelrahman Ashraf</b></sub></a><br />
      <td align="center"><a href="https://github.com/MohamedWw" ><img src="https://avatars.githubusercontent.com/u/64079821?v=4" width="150px;" alt=""/><br /><sub><b>Mohamed Walid</b></sub></a><br />
       <td align="center"><a href="https://github.com/Fathi79"><img src="https://avatars.githubusercontent.com/u/96377553?v=4" width="150px;" alt=""/><br /><sub><b>Abd Elrhman Fathi</b></sub></a><br /></td>
+       <td align="center"><a href="https://github.com/EslamAsHhraf"><img src="https://avatars.githubusercontent.com/u/71986226?v=4" width="150px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
   </tr>
 </table>
 
