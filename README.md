@@ -249,6 +249,12 @@ DC motor for stirring the drink
 <a id = "Circuit"></a>
 
 ## <img align="center"  width =60px  height =60px src="https://media1.giphy.com/media/a7Ik5hjrFQuxiPKFZO/giphy.gif?cid=ecf05e473dht4cxrxnnojv4gerspm6hm3zu7i5zqdumyhoqy&rid=giphy.gif&ct=s"> Circuit 
+<ul>
+<li>
+
+### <a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Circuit.ckt">Circuit<a>
+</li>
+</ul>
 <img align="center"    src="https://user-images.githubusercontent.com/71986226/179020547-0a46f8a5-71e0-4133-bfd6-f575585debe7.png">
 
 
