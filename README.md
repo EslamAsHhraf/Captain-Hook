@@ -273,7 +273,6 @@ DC motor for stirring the drink
 <li>We use Pvc tubes to transfer food between machines.</li>
 <li><a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Integeration/integeration.ino">Integration code</a</li>
 </ul>
-<br>
 
 
 ## 🥗 Salad
