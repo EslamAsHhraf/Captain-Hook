@@ -1,3 +1,4 @@
+
 # <img align=center width=75px height=90px src="https://media3.giphy.com/media/5jh3rt2jAi9KMPSh9W/giphy.gif?cid=ecf05e47p22ox1l0buvbu0b6ar5jyqya29yf216tjk429wyp&rid=giphy.gif&ct=s"> Captain Hook
 
 <div align="center">
@@ -259,8 +260,9 @@ DC motor for stirring the drink
 </li>
 </ul>
 <br>
+<div align="center">
 <img align="center"    src="https://user-images.githubusercontent.com/71986226/179020547-0a46f8a5-71e0-4133-bfd6-f575585debe7.png">
-
+</div>
 
 <hr style="background-color: #4b4c60"></hr>
 
@@ -273,9 +275,23 @@ DC motor for stirring the drink
 <li><a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Integeration/integeration.ino">Integration code</a</li>
 </ul>
 <br>
-<div align="center">
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+## 🥗 Salad
+<div  width="630" height="250" align="center">
+
+<video src="https://user-images.githubusercontent.com/71986226/179081825-2aa865ec-5d72-4ef1-9bf3-ac1e049a26f4.mp4"  width="630" height="250">
+</video> 
+
+</div>
+<br>
+
+## 🍚 Rice
+<div align="center" width="20px" height="20px">
+
+<video  width="20px" height="20px" src="https://user-images.githubusercontent.com/71986226/179080825-e1b89247-92a1-4990-a3bb-44db863ddc79.mp4" >
+</video> 
+
 </div>
 
 <hr style="background-color: #4b4c60"></hr>
