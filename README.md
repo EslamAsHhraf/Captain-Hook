@@ -284,7 +284,6 @@ DC motor for stirring the drink
 </video> 
 
 </div>
-<br>
 
 <hr style="background-color: #4b4c60"></hr>
 
