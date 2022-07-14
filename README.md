@@ -147,7 +147,7 @@ Arm has hook which make him can carry colander which contain food
 </li>
 </ul>
 <div align="center">
-<img align="center"  width =200px  src="https://user-images.githubusercontent.com/71986226/178854595-fe88e1da-7fe7-4b1c-9db1-4e93e4449db1.png">
+<img align="center"  width =400px  src="https://user-images.githubusercontent.com/71986226/178992877-fc8c62b3-088c-47c7-9bcd-3f74bb556dce.gif">
 </div>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Food"></a>
@@ -165,8 +165,10 @@ Food's Machine has linear actuator help him to push food
 <a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Food's%20Machine/PushingFood.ino">Food's Machine Code</a>
 </li>
 </ul>
+
+<br>
 <div align="center">
-<img align="center"  width =400px  src="https://user-images.githubusercontent.com/71986226/178854627-89dc4719-eec2-4e80-b96d-092718cdbea7.png">
+<img align="center"  width =400px  src="https://user-images.githubusercontent.com/71986226/178988843-d09a00c8-603a-441a-a867-d27c83e05173.gif">
 </div>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Knife"></a>
@@ -180,6 +182,7 @@ Knife is response for cutting food like Cucumber and carrots to slides
 The output go to arm
 </li>
 </ul>
+<br>
 <div align="center">
 <img align="center"  width =200px  src="https://user-images.githubusercontent.com/71986226/178855557-38ff4b30-2cb6-4065-b9d2-181fdb46fc6f.gif">
 </div>
