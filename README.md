@@ -286,6 +286,8 @@ DC motor for stirring the drink
 </div>
 <br>
 
+<hr style="background-color: #4b4c60"></hr>
+
 ## 🍚 Rice
 <div align="center" >
 
