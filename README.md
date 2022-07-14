@@ -278,18 +278,18 @@ DC motor for stirring the drink
 
 
 ## 🥗 Salad
-<div  width="630" height="250" align="center">
+<div   align="center">
 
-<video src="https://user-images.githubusercontent.com/71986226/179081825-2aa865ec-5d72-4ef1-9bf3-ac1e049a26f4.mp4"  width="630" height="250">
+<video src="https://user-images.githubusercontent.com/71986226/179081825-2aa865ec-5d72-4ef1-9bf3-ac1e049a26f4.mp4"   width="400px" height="250px">
 </video> 
 
 </div>
 <br>
 
 ## 🍚 Rice
-<div align="center" width="20px" height="20px">
+<div align="center" >
 
-<video  width="20px" height="20px" src="https://user-images.githubusercontent.com/71986226/179080825-e1b89247-92a1-4990-a3bb-44db863ddc79.mp4" >
+<video  width="400px" height="250px" src="https://user-images.githubusercontent.com/71986226/179080825-e1b89247-92a1-4990-a3bb-44db863ddc79.mp4" >
 </video> 
 
 </div>
