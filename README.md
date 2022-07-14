@@ -1,4 +1,8 @@
 
+
+https://user-images.githubusercontent.com/71986226/179087563-00d29d00-25c4-4035-9101-c9dac15fc400.mp4
+
+
 # <img align=center width=75px height=90px src="https://media3.giphy.com/media/5jh3rt2jAi9KMPSh9W/giphy.gif?cid=ecf05e47p22ox1l0buvbu0b6ar5jyqya29yf216tjk429wyp&rid=giphy.gif&ct=s"> Captain Hook
 
 <div align="center">
@@ -278,9 +282,10 @@ DC motor for stirring the drink
 
 
 ## 🥗 Salad
-<div   align="center">
+<div  align="center">
 
-<video src="https://user-images.githubusercontent.com/71986226/179081825-2aa865ec-5d72-4ef1-9bf3-ac1e049a26f4.mp4"   width="400px" height="250px">
+
+<video src="https://user-images.githubusercontent.com/71986226/179088394-ba171cc9-d024-47f4-83aa-8f0853dec0ca.mp4"   width="400px" height="250px">
 </video> 
 
 </div>
@@ -289,7 +294,11 @@ DC motor for stirring the drink
 ## 🍚 Rice
 <div align="center" >
 
-<video  width="400px" height="250px" src="https://user-images.githubusercontent.com/71986226/179080825-e1b89247-92a1-4990-a3bb-44db863ddc79.mp4" >
+
+
+
+
+<video  width="400px" height="250px" src="https://user-images.githubusercontent.com/71986226/179089465-e3750654-c5b3-4dc3-960c-5359e9732980.mp4" >
 </video> 
 
 </div>
