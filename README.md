@@ -142,6 +142,9 @@ Arm is response for transfer food to heater and deliver for user
 <li>
 Arm has hook which make him can carry colander which contain food
 </li>
+<li>
+<a href="">Arm Code</a>
+</li>
 </ul>
 <div align="center">
 <img align="center"  width =200px  src="https://user-images.githubusercontent.com/71986226/178854595-fe88e1da-7fe7-4b1c-9db1-4e93e4449db1.png">
@@ -158,6 +161,9 @@ Food's Machine is response for push food to Arm or Knife or Cup accoding the ord
 <li>
 Food's Machine has linear actuator help him to push food
 </li>
+<li>
+<a href="">Food's Machine Code</a>
+</li>
 </ul>
 <div align="center">
 <img align="center"  width =400px  src="https://user-images.githubusercontent.com/71986226/178854627-89dc4719-eec2-4e80-b96d-092718cdbea7.png">
@@ -173,6 +179,9 @@ Knife is response for cutting food like Cucumber and carrots to slides
 <li>
 The output go to arm
 </li>
+<li>
+<a href="">Knife Code</a>
+</li>
 </ul>
 <div align="center">
 <img align="center"  width =200px  src="https://user-images.githubusercontent.com/71986226/178855557-38ff4b30-2cb6-4065-b9d2-181fdb46fc6f.gif">
@@ -186,6 +195,9 @@ The output go to arm
 <ul>
 <li>
 Boiler is response of put water after boiling in the cup and stirring  the drink
+</li>
+<li>
+<a href="">Boiler Code</a>
 </li>
 </ul>
 <div align="center">
