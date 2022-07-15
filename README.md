@@ -14,7 +14,7 @@
 
 ## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/178468913-84c3151c-e8d1-4420-a9e9-b2434e9c2f75.gif"> Table of Contents
 
-- <a href ="#about"> 📙 overview</a>
+- <a href ="#about"> 📙 Overview</a>
 - <a href ="#Components"> :money_with_wings: Components & cost</a>
 - <a href ="#Machines"> ⚙️  Machines</a>
     - <a href ="#Arm"> 🦾 Arm</a>
@@ -36,7 +36,7 @@
 Captain Hook is robot which makes food and drinks.
  </li>
  <li>
- Captain Hook consist of 4 parts
+ Captain Hook consists of 4 parts
  <ul>
  <li>Arm</li>
  <li>Food's Machine</li>
@@ -45,7 +45,7 @@ Captain Hook is robot which makes food and drinks.
  </ul>
  </li>
   <li>
- Menu of food
+ Food Menu
  <ul>
  <li>Rice</li>
  <li>Noodles</li>
@@ -55,7 +55,7 @@ Captain Hook is robot which makes food and drinks.
  </ul>
  </li>
   <li>
- Menu of Drinks
+ Drinks Menu
  <ul>
  <li>Tee</li>
  <li>Nescafe</li>
@@ -125,7 +125,7 @@ Captain Hook is robot which makes food and drinks.
 | Tube (1m) | 1 | 15 EGP|
 | White Pvc (1m) | 1 | 100 EGP|
 
-### Total Budgut = 1500 L.E
+### Total Budget = 1500 L.E
 <hr style="background-color: #4b4c60"></hr>
 
 <a id = "Machines"></a>
@@ -138,10 +138,10 @@ Captain Hook is robot which makes food and drinks.
 
 <ul>
 <li>
-Arm is response for transfer food to heater and deliver for user.
+Arm is responsible for transferring food to the heater and then deliver it to user.
 </li>
 <li>
-Arm has hook which make him can carry colander which contain food.
+Arm has a hook which allows itto carry the colander which contains the food coming from the food's machine directly or the knife.
 </li>
 <li>
 <a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Arm/Arm.ino">Arm Code.</a>
@@ -168,11 +168,11 @@ Base Stepper
 ### <img align="center"  width =50px  height =50px src="https://media3.giphy.com/media/4CWSaafe9SOzB1cmEa/giphy.gif?cid=ecf05e47q5yhejy0ng4duja7jrzvlx1oqw5pfupiabxu1nf2&rid=giphy.gif&ct=s"> Food's Machine
 <ul>
 <li>
-Food's Machine is response for push food to Arm or Knife or Cup accoding the order.
+Food's Machine is responsible for pushing food out of the protective containers above to the Arm, knife or cup according to the order.
 
 </li>
 <li>
-Food's Machine has linear actuator help him to push food.
+Food's Machine has a linear actuator (Linear Motion DC Motor) which pushes the food using a piston found at the back of each container.
 </li>
 <li>
 <a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Food's%20Machine/PushingFood.ino">Food's Machine Code.</a>
@@ -198,10 +198,10 @@ DC linear actuator
 ### <img align="center"  width =50px  height =50px src="https://media0.giphy.com/media/EppjGnpkOrY0rvjbsA/giphy.gif?cid=ecf05e4732u005bpf9xh4rni4pd64f1yfulqwepk5vbob3i7&rid=giphy.gif&ct=s"> Knife
 <ul>
 <li>
-Knife is response for cutting food like Cucumber and carrots to slides.
+Knife is responsible for cutting food like Cucumber and carrots to mini slices.
 </li>
 <li>
-The output go to arm.
+The output goes directly to the colander which is then carried by the arm.
 </li>
 <li>
 Consists of
@@ -224,7 +224,7 @@ DC motor 12v (200 kg.cm)
 ### <img align="center"  width =60px  height =50px src="https://media1.giphy.com/media/ii2g4OpzlzWosixidO/giphy.gif?cid=ecf05e47z2s1da1eypgleqqcds0bqgyyvignyxai8mvyy8g3&rid=giphy.gif&ct=s"> Boiler
 <ul>
 <li>
-Boiler is response of put water after boiling in the cup and stirring  the drink.
+Boiler is responsible of pouring water after boiling into the cup and stirring it inside.
 </li>
 <li>
 <a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Boiler/Boiler.ino">Boiler Code.</a>
