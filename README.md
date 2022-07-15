@@ -403,6 +403,8 @@ Amr</b></sub></a><br />
   </tr>
 </table>
 
-## License <a id ="License"></a>
+<hr style="background-color: #4b4c60"></hr>
+
+## 🔒 License <a id ="License"></a>
 
 > This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/Captain-Hook/blob/main/LICENSE) for more information ©EslamAsHhraf.
