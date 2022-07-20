@@ -57,7 +57,7 @@ Captain Hook is robot which makes food and drinks.
   <li>
  Drinks Menu
  <ul>
- <li>Tee</li>
+ <li>Tea</li>
  <li>Nescafe</li>
  </ul>
  </li>
