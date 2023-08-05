@@ -15,16 +15,16 @@
 ## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/178468913-84c3151c-e8d1-4420-a9e9-b2434e9c2f75.gif"> Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
-- <a href ="#Components"> :money_with_wings: Components & cost</a>
-- <a href ="#Machines"> ⚙️  Machines</a>
-    - <a href ="#Arm"> 🦾 Arm</a>
-    - <a href ="#Food"> 🍲 Food's Machine</a>
-    - <a href ="#Knife"> 🔪 Knife</a>
-    - <a href ="#Boiler"> ☕ Boiler</a>
-- <a href ="#Circuit">💡 Circuit</a>
-- <a href ="#Integration">🤖 Integration</a>
-- <a href ="#Contributors"> ✨ Contributors</a>
-- <a href ="#License"> 🔒 License</a> 
+- <a href ="#components"> :money_with_wings: Components & cost</a>
+- <a href ="#machines"> ⚙️  Machines</a>
+    - <a href ="#arm"> 🦾 Arm</a>
+    - <a href ="#food"> 🍲 Food's Machine</a>
+    - <a href ="#knife"> 🔪 Knife</a>
+    - <a href ="#boiler"> ☕ Boiler</a>
+- <a href ="#circuit">💡 Circuit</a>
+- <a href ="#integration">🤖 Integration</a>
+- <a href ="#contributors"> ✨ Contributors</a>
+- <a href ="#license"> 🔒 License</a> 
 <hr style="background-color: #4b4c60"></hr>
 
 <a id = "about"></a>
