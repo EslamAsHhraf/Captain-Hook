@@ -1,4 +1,4 @@
-# <img align=center width=75px height=90px src="https://media3.giphy.com/media/5jh3rt2jAi9KMPSh9W/giphy.gif?cid=ecf05e47p22ox1l0buvbu0b6ar5jyqya29yf216tjk429wyp&rid=giphy.gif&ct=s"> Captain Hook
+# ⚓ Captain Hook
 
 <div align="center">
 
@@ -12,7 +12,7 @@
     <br> 
 </p>
 
-## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/178468913-84c3151c-e8d1-4420-a9e9-b2434e9c2f75.gif"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#components"> :money_with_wings: Components & cost</a>
@@ -29,7 +29,7 @@
 
 <a id = "about"></a>
 
-## <img align="center"  width =50px  height =50px src="https://c.tenor.com/BU6EP0XgvzEAAAAj/cat-cute.gif"> Overview 
+## 📙 Overview 
 
 <ul>
 <li>
@@ -102,7 +102,7 @@ Captain Hook is robot which makes food and drinks.
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Components"></a>
 
-##  <img align="center"  width =70px  height =70px src="https://media1.giphy.com/media/HWhlNhHNN7zGwMfGV4/giphy.gif?cid=ecf05e47351ain7blea4l6t9oeffyqj013pkodl298lred3w&rid=giphy.gif&ct=s"> Components & cost
+## 💸 Components & cost
 
 | Name| Number | Market Cost per Part                                                                                                         |
 | --------------  | ------ | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -130,11 +130,11 @@ Captain Hook is robot which makes food and drinks.
 
 <a id = "Machines"></a>
 
-## <img align="center"  width =70px  height =70px src="https://media4.giphy.com/media/7ktwhqlnFaDAJ8AzIw/giphy.gif?cid=ecf05e47p68znkbblq8sysehj7ahivaaceyfjly28ch0y4m7&rid=giphy.gif&ct=s"> Machines 
+## 🤖 Machines 
 
 <a id = "Arm"></a>
 
-### <img align="center"  width =60px  height =60px src="https://media1.giphy.com/media/U22HxRRRXQDHrRwxz7/giphy.gif?cid=ecf05e47q75w3nv9j1osrv4xbnqqm23d2tmb4myyj9ufg4nd&rid=giphy.gif&ct=s"> Arm
+### 🦾 Arm
 
 <ul>
 <li>
@@ -165,7 +165,7 @@ Base Stepper
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Food"></a>
 
-### <img align="center"  width =50px  height =50px src="https://media3.giphy.com/media/4CWSaafe9SOzB1cmEa/giphy.gif?cid=ecf05e47q5yhejy0ng4duja7jrzvlx1oqw5pfupiabxu1nf2&rid=giphy.gif&ct=s"> Food's Machine
+### 🍕 Food's Machine
 <ul>
 <li>
 Food's Machine is responsible for pushing food out of the protective containers above to the Arm, knife or cup according to the order.
@@ -195,7 +195,7 @@ DC linear actuator
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Knife"></a>
 
-### <img align="center"  width =50px  height =50px src="https://media0.giphy.com/media/EppjGnpkOrY0rvjbsA/giphy.gif?cid=ecf05e4732u005bpf9xh4rni4pd64f1yfulqwepk5vbob3i7&rid=giphy.gif&ct=s"> Knife
+### 🔪 Knife
 <ul>
 <li>
 Knife is responsible for cutting food like Cucumber and carrots to mini slices.
@@ -221,7 +221,7 @@ DC motor 12v (200 kg.cm)
 
 <a id = "Boiler"></a>
 
-### <img align="center"  width =60px  height =50px src="https://media1.giphy.com/media/ii2g4OpzlzWosixidO/giphy.gif?cid=ecf05e47z2s1da1eypgleqqcds0bqgyyvignyxai8mvyy8g3&rid=giphy.gif&ct=s"> Boiler
+### 🫖 Boiler
 <ul>
 <li>
 Boiler is responsible of pouring water after boiling into the cup and stirring it inside.
@@ -251,7 +251,7 @@ DC motor for stirring the drink
 
 <a id = "Circuit"></a>
 
-## <img align="center"  width =60px  height =60px src="https://media1.giphy.com/media/a7Ik5hjrFQuxiPKFZO/giphy.gif?cid=ecf05e473dht4cxrxnnojv4gerspm6hm3zu7i5zqdumyhoqy&rid=giphy.gif&ct=s"> Circuit 
+## 💡 Circuit 
 <ul>
 <li>
 
@@ -267,7 +267,7 @@ DC motor for stirring the drink
 
 <a id = "Integration"></a>
 
-## <img align="center"  width =80px  height =80px src="https://media1.giphy.com/media/lr7lYUc00nr3hWsoVa/giphy.gif?cid=ecf05e47f99e9tbsstbe3u9mzphxjrp27jxozshi64cok467&rid=giphy.gif&ct=s"> Integration 
+## 🧠 Integration 
 
 <ul>
 <li>We use Pvc tubes to transfer food between machines.</li>
@@ -299,14 +299,14 @@ DC motor for stirring the drink
 
 <a id ="Contributors"></a>
 
-## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors 
+## 👑 Contributors 
 <table align="center">
   <thead >
          <th style="text-align: center;"> Project Manager</th>
         
   </thead>
   <tr>
-   <td align="center"><a href="https://github.com/EslamAsHhraf"><img src="https://avatars.githubusercontent.com/u/71986226?v=4" width="200px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/EslamAsHhraf"><img src="https://avatars.githubusercontent.com/u/71986226?v=4" width="150px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
   </tr>
 </table>
 <br>
@@ -320,60 +320,60 @@ DC motor for stirring the drink
   <tr>
     <td align="center">
     <a href="https://github.com/Abd-ELrahmanHamza" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/68310502?v=4" width="200px;" alt="Abdelrahman Mohamed"/>
+    <img src="https://avatars.githubusercontent.com/u/68310502?v=4" width="150px;" alt="Abdelrahman Mohamed"/>
     <br />
     <sub><b>Abdelrahman Mohamed</b></sub></a>
     </td>
-      <td align="center"><a href="https://github.com/abdelazizSalah" ><img src="https://avatars.githubusercontent.com/u/71516308?v=4" width="200px;" alt=""/><br /><sub><b>Abdelaziz Salah</b></sub></a><br />
+      <td align="center"><a href="https://github.com/abdelazizSalah" ><img src="https://avatars.githubusercontent.com/u/71516308?v=4" width="150px;" alt=""/><br /><sub><b>Abdelaziz Salah</b></sub></a><br />
     </td>
-       <td align="center"><a href="https://github.com/EslamAsHhraf"><img src="https://avatars.githubusercontent.com/u/71986226?v=4" width="200px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/waleedhesham446" ><img src="https://avatars.githubusercontent.com/u/72695729?v=4" width="200px;" alt=""/><br /><sub><b>Waleed Hesham</b></sub></a><br />
+       <td align="center"><a href="https://github.com/EslamAsHhraf"><img src="https://avatars.githubusercontent.com/u/71986226?v=4" width="150px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/waleedhesham446" ><img src="https://avatars.githubusercontent.com/u/72695729?v=4" width="150px;" alt=""/><br /><sub><b>Waleed Hesham</b></sub></a><br />
     </td>
   </tr>
   <tr>
  <td align="center">
     <a href="https://github.com/ZiadSheriif" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/78238570?v=4" width="200px;" alt="Ziad Sherif"/>
+    <img src="https://avatars.githubusercontent.com/u/78238570?v=4" width="150px;" alt="Ziad Sherif"/>
     <br />
     <sub><b>Ziad Sherif</b></sub></a>
     </td>
-       <td align="center"><a href="https://github.com/AdhamAliAbdelAal" ><img src="https://avatars.githubusercontent.com/u/83884426?v=4" width="200px;" alt=""/><br /><sub><b>Adham Ali</b></sub></a><br />
+       <td align="center"><a href="https://github.com/AdhamAliAbdelAal" ><img src="https://avatars.githubusercontent.com/u/83884426?v=4" width="150px;" alt=""/><br /><sub><b>Adham Ali</b></sub></a><br />
     </td>
-   <td align="center"><a href="https://github.com/khaHesham"><img src="https://avatars.githubusercontent.com/u/75990647?v=4" width="200px;" alt=""/><br /><sub><b>khaled Hesham</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/AbdelrahmanAshrafMohamedelsayed" ><img src="https://avatars.githubusercontent.com/u/97232730?v=4" width="200px;" alt=""/><br /><sub><b>Abdelrahman Ashraf</b></sub></a><br />
+   <td align="center"><a href="https://github.com/khaHesham"><img src="https://avatars.githubusercontent.com/u/75990647?v=4" width="150px;" alt=""/><br /><sub><b>khaled Hesham</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/AbdelrahmanAshrafMohamedelsayed" ><img src="https://avatars.githubusercontent.com/u/97232730?v=4" width="150px;" alt=""/><br /><sub><b>Abdelrahman Ashraf</b></sub></a><br />
     </td>
   </tr>
   
   <tr>
    <td align="center">
     <a href="https://github.com/ZeyadTarekk" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/76125650?v=4" width="200px;" alt="Zeyad Tarek"/>
+    <img src="https://avatars.githubusercontent.com/u/76125650?v=4" width="150px;" alt="Zeyad Tarek"/>
     <br />
     <sub><b>Zeyad Tarek</b></sub></a>
     </td>
-      <td align="center"><a href="https://github.com/mohamedromee12"><img src="https://avatars.githubusercontent.com/u/75943278?v=4" width="200px;" alt=""/><br /><sub><b>Mohamed Romee</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/mohamedromee12"><img src="https://avatars.githubusercontent.com/u/75943278?v=4" width="150px;" alt=""/><br /><sub><b>Mohamed Romee</b></sub></a><br /></td>
        <td align="center"><a href="https://github.com/MahmoudAbdelhamidAli"><img src="https://avatars.githubusercontent.com/u/87570209?v=4" width="150px;" alt=""/><br /><sub><b>Mahmoud Abdlhamid</b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/MohamedWw" ><img src="https://avatars.githubusercontent.com/u/64079821?v=4" width="200px;" alt=""/><br /><sub><b>Mohamed Walid</b></sub></a><br />
+     <td align="center"><a href="https://github.com/MohamedWw" ><img src="https://avatars.githubusercontent.com/u/64079821?v=4" width="150px;" alt=""/><br /><sub><b>Mohamed Walid</b></sub></a><br />
     </td>
   </tr>
   <tr>
    <td align="center">
     <a href="https://github.com/BeshoyMorad" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/82404564?v=4" width="200px;" alt="Beshoy Morad"/>
+    <img src="https://avatars.githubusercontent.com/u/82404564?v=4" width="150px;" alt="Beshoy Morad"/>
     <br />
     <sub><b>Beshoy Morad</b></sub></a> </td>
-      <td align="center"><a href="https://github.com/abdelrahman0123"><img src="https://avatars.githubusercontent.com/u/67989900?v=4" width="200px;" alt=""/><br /><sub><b>Abdelrahman Hamdy</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/KirollosSamy"><img src="https://avatars.githubusercontent.com/u/67559650?v=4" width="200px;" alt=""/><br /><sub><b>Kirollos Samy</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/abdelrahman0123"><img src="https://avatars.githubusercontent.com/u/67989900?v=4" width="150px;" alt=""/><br /><sub><b>Abdelrahman Hamdy</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/KirollosSamy"><img src="https://avatars.githubusercontent.com/u/67559650?v=4" width="150px;" alt=""/><br /><sub><b>Kirollos Samy</b></sub></a><br /></td>
   </tr>
   <tr>
-   <td align="center"><a href="https://github.com/Waer1" ><img src="https://avatars.githubusercontent.com/u/70758177?v=4" width="200px;" alt=""/><br /><sub><b>Waer</b></sub></a><br />
+   <td align="center"><a href="https://github.com/Waer1" ><img src="https://avatars.githubusercontent.com/u/70758177?v=4" width="150px;" alt=""/><br /><sub><b>Waer</b></sub></a><br />
     </td>
-      <td align="center"><a href="https://github.com/AbdelrahmanNoaman"><img src="https://avatars.githubusercontent.com/u/76150639?v=4" width="200px;" alt=""/><br /><sub><b>Abdelrahman Noaman</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Fathi79"><img src="https://avatars.githubusercontent.com/u/96377553?v=4" width="200px;" alt=""/><br /><sub><b>Abd Elrhman Fathi</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/AbdelrahmanNoaman"><img src="https://avatars.githubusercontent.com/u/76150639?v=4" width="150px;" alt=""/><br /><sub><b>Abdelrahman Noaman</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Fathi79"><img src="https://avatars.githubusercontent.com/u/96377553?v=4" width="150px;" alt=""/><br /><sub><b>Abd Elrhman Fathi</b></sub></a><br /></td>
     </td>
   </tr>
   <tr>
-   <td align="center"><a href="https://github.com/Amr146?tab=followers" ><img src="https://avatars.githubusercontent.com/u/76057767?v=4" width="200px;" alt=""/><br /><sub><b>
+   <td align="center"><a href="https://github.com/Amr146?tab=followers" ><img src="https://avatars.githubusercontent.com/u/76057767?v=4" width="150px;" alt=""/><br /><sub><b>
 Amr</b></sub></a><br />
     
   </tr>
